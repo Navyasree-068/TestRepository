@@ -1,4 +1,4 @@
-#123# TestRepository
+# TestRepository
 
 This is a repository for demonstrating the process of doing a pull request.
 
